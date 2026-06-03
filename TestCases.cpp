@@ -30,9 +30,8 @@ int main(){
 	}
 	cout<<"]"<<endl;
 	
-	selection_sorting(n, arr);
-	
 	cout<<"After Sorting:  [";
+	selection_sorting(n, arr);
 	for(int i=0; i<n; i++){
 		cout<<"\""<<arr[i]<<"\" ";
 	}
