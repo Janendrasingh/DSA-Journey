@@ -1,3 +1,5 @@
+// Reoving duplicated in place from sorted array
+
 #include<bits/stdc++.h>
 using namespace std;
 
