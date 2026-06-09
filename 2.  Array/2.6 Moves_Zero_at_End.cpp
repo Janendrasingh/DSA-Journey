@@ -1,3 +1,5 @@
+//moving zeros at the end
+
 #include<bits/stdc++.h>
 using namespace std;
 
