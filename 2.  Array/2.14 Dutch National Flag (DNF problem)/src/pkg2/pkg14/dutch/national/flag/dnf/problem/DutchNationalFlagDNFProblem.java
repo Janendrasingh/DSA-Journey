@@ -1,4 +1,7 @@
 
+// Sorting 0's, 1's, 2's Solving by Dutch Flag Algo
+
+
 package pkg2.pkg14.dutch.national.flag.dnf.problem;
 import java.util.*;
 
@@ -16,6 +19,8 @@ public class DutchNationalFlagDNFProblem {
          for(int i=0; i<n; i++){
              arr[i] = sc.nextInt();
          }
+         
+         
          
          System.out.println("Display");
          for(int i=0; i<n; i++){
