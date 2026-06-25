@@ -1,0 +1,40 @@
+// Majority Elements ( greater than > n/2 )
+package pkg2.pkg15.majority.elements.brute.and.optimal;
+
+import java.util.*;
+
+public class MajorityElementsBruteAndOptimal {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter the size of array: ");
+        int n = sc.nextInt();
+        int[] ar = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            ar[i] = sc.nextInt();
+        }
+        
+
+        //Brute Force Solution
+        for (int i = 0; i < n; i++) {
+
+            int cnt = 0;
+
+            for (int j = 0; j < n; j++) {
+                if (ar[i] == ar[j]) {
+                    cnt++;
+                }
+            }
+
+            if (cnt > n / 2) {
+                System.out.println("Majority Element: " + ar[i]);
+                break;
+            }
+        }
+
+    }
+
+}
