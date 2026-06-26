@@ -155,6 +155,7 @@ This repository is a part of my consistent DSA learning journey. The problems ar
 # 🛠️ Language Used
 
 - C++
+- Java
 
 ---
 
