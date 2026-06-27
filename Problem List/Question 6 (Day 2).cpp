@@ -1,7 +1,7 @@
 
 //Vowel or Consonant using Switch Case
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
