@@ -1,7 +1,7 @@
 
 //Vowel or Consonant using Switch Case
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -15,7 +15,7 @@ int main() {
         ch = ch + 32;
     }
 
-    switch (ch) {
+    switch (ch) { 
         case 'a':
         case 'e':
         case 'i':
