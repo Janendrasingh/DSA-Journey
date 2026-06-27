@@ -1,4 +1,3 @@
-// Majority Elements ( greater than > n/2 )
 package pkg2.pkg15.majority.elements.brute.and.optimal;
 
 import java.util.*;
