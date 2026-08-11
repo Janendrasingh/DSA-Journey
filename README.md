@@ -49,6 +49,7 @@ Janendra Singh
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Janendrasingh/DSA-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Janendrasingh/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Janendrasingh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -108,4 +109,5 @@ Janendra Singh
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
