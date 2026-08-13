@@ -57,6 +57,7 @@ Janendra Singh
 | [0118-pascals-triangle](https://github.com/Janendrasingh/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Janendrasingh/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janendrasingh/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Janendra Singh
 | [0073-set-matrix-zeroes](https://github.com/Janendrasingh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Janendrasingh/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janendrasingh/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Janendra Singh
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,8 +115,13 @@ Janendra Singh
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Janendrasingh/DSA-Journey/tree/main/0055-jump-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
