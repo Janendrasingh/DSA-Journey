@@ -60,6 +60,7 @@ Janendra Singh
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Janendrasingh/DSA-Journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janendrasingh/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Janendrasingh/DSA-Journey/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Janendra Singh
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Janendrasingh/DSA-Journey/tree/main/0055-jump-game/) | Medium |
+| [0605-can-place-flowers](https://github.com/Janendrasingh/DSA-Journey/tree/main/0605-can-place-flowers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
