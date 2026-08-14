@@ -58,6 +58,7 @@ Janendra Singh
 | [0128-longest-consecutive-sequence](https://github.com/Janendrasingh/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Janendrasingh/DSA-Journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janendrasingh/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 | Problem Name | Difficulty |
