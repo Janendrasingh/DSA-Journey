@@ -61,6 +61,7 @@ Janendra Singh
 | [0485-max-consecutive-ones](https://github.com/Janendrasingh/DSA-Journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janendrasingh/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Janendrasingh/DSA-Journey/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Janendrasingh/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@ Janendra Singh
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Janendrasingh/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
