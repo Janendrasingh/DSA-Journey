@@ -53,6 +53,7 @@ Janendra Singh
 | [0048-rotate-image](https://github.com/Janendrasingh/DSA-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Janendrasingh/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Janendrasingh/DSA-Journey/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Janendrasingh/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Janendrasingh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Janendrasingh/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Janendrasingh/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@ Janendra Singh
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Janendrasingh/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
@@ -136,4 +138,8 @@ Janendra Singh
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Janendrasingh/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Janendrasingh/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
