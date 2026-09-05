@@ -55,6 +55,7 @@ Janendra Singh
 | [0055-jump-game](https://github.com/Janendrasingh/DSA-Journey/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Janendrasingh/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Janendrasingh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Janendrasingh/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Janendrasingh/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -106,6 +107,7 @@ Janendra Singh
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Janendrasingh/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Janendrasingh/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
@@ -122,6 +124,7 @@ Janendra Singh
 | [0015-3sum](https://github.com/Janendrasingh/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Janendrasingh/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Janendrasingh/DSA-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Janendrasingh/DSA-Journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
